@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Luna-Schaetzle
-- 👀 I’m interested in Programming/IT/Movies/
+- 👀 I’m interested in Programming/IT/Movies/Anime & Manga/
 - 🌱 I’m currently learning at the HTL Anichstraße Innsbruck Austria
 <!---
 - 💞️ I’m looking to collaborate on ...
