@@ -4,7 +4,8 @@
 <!---
 - 💞️ I’m looking to collaborate on ...
 --->
-- 📫 How to reach me luna.schaetzle@gmail.com
+- 📫 How to reach me luna.schaetzle.website@gmail.com
+- 🖱 Visit my website Luna-Schaetzle.xyz
 
 <!---
 Luna-Schaetzle/Luna-Schaetzle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
