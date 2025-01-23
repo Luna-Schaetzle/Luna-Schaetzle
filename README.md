@@ -1,7 +1,3 @@
-Natürlich! Hier ist ein Vorschlag für eine GitHub-Bio, die zu dir passen könnte. Du kannst mir gern Feedback geben, wenn du etwas anpassen möchtest:
-
----
-
 ### 🌟 About Me  
 👋 Hi, I'm **Luna** – a passionate developer and tech enthusiast from Austria, currently in my final year at HTL Anichstraße. I thrive on creating innovative projects that bridge the gap between humans and AI.  
 
@@ -25,10 +21,6 @@ Natürlich! Hier ist ein Vorschlag für eine GitHub-Bio, die zu dir passen könn
 - Master human-AI interaction interfaces.  
 - Build robust open-source solutions that benefit the community.  
 - Push boundaries in AI and web development.
-
----
-
-Was hältst du davon? Möchtest du etwas hinzufügen, ändern oder kürzen? 😊
 
 <!---
 - 👋 Hi, I’m @Luna-Schaetzle
