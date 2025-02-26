@@ -1,5 +1,5 @@
 ### 🌟 About Me  
-👋 Hi, I'm **Luna** – a passionate developer and tech enthusiast from Austria, currently in my final year at HTL Anichstraße. I thrive on creating innovative projects that bridge the gap between humans and AI.  
+👋 Hi, I'm **Luna Schaetzle** – a passionate developer and tech enthusiast from Austria, currently in my final year at HTL Anichstraße. I thrive on creating innovative projects that bridge the gap between humans and AI.  
 
 ### 🛠️ What I Do  
 - 🌐 **Frontend & Backend Developer**: Specializing in Vue.js, Flask, and PostgREST.  
@@ -21,6 +21,8 @@
 - Master human-AI interaction interfaces.  
 - Build robust open-source solutions that benefit the community.  
 - Push boundaries in AI and web development.
+
+### 📫 How to reach me luna.schaetzle.website@gmail.com
 
 <!---
 - 👋 Hi, I’m @Luna-Schaetzle
