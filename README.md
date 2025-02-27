@@ -1,6 +1,6 @@
 # Hi there, I'm Luna Schaetzle 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luna-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/luna-schaetzle) [![Email](https://img.shields.io/badge/Email-luna.schaetzle.website@gmail.com-c14438?style=flat-square&logo=gmail)](mailto:luna.schaetzle.website@gmail.com) [![Location](https://img.shields.io/badge/Location-Austria-red?style=flat-square&logo=googlemaps)](https://www.google.com/maps/place/Austria)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luna-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/luna-schaetzle) [![Email](https://img.shields.io/badge/Email-luna.schaetzle.website@gmail.com-c14438?style=flat-square&logo=gmail)](mailto:luna.schaetzle@gmail.com) [![Location](https://img.shields.io/badge/Location-Austria-red?style=flat-square&logo=googlemaps)](https://www.google.com/maps/place/Innsbruck)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=F700F7&width=435&lines=Welcome+to+my+GitHub+Profile!;Let's+Code+Together!)](https://git.io/typing-svg)
 
@@ -17,7 +17,7 @@ Hi, ich bin **Luna Schaetzle** – eine leidenschaftliche Entwicklerin und Tech-
 - 💻 **Tech Stack**: Java, Python, SQL, C#, JavaScript und mehr.
 - 🎨 **Creative Problem Solver**: Gestaltung interaktiver Nutzererlebnisse und effizienter Systeme.
 
-![Coding Animation](https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif)
+![Coding Animation](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGE1b29ldms0cjllYXYxbGFocDh1emU0d2tzeG4zcTBvMHFudWwxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cIn5fTcjnKhStIeAef/giphy.gif)
 
 ---
 
