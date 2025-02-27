@@ -12,12 +12,12 @@ Hi, ich bin **Luna Schaetzle** – eine leidenschaftliche Entwicklerin und Tech-
 ---
 
 ## 🛠️ What I Do
+
+![Coding Animation](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGE1b29ldms0cjllYXYxbGFocDh1emU0d2tzeG4zcTBvMHFudWwxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cIn5fTcjnKhStIeAef/giphy.gif)
 - 🌐 **Frontend & Backend Developer**: Spezialisierung auf **Vue.js**, **Flask** und **PostgREST**.
 - 🤖 **AI Enthusiast**: Entwicklung von Systemen wie **SAIPiA** – ein selbstständiger KI-Assistent, der LLMs, Bilderkennung und Hardwarelösungen integriert.
 - 💻 **Tech Stack**: Java, Python, SQL, C#, JavaScript und mehr.
 - 🎨 **Creative Problem Solver**: Gestaltung interaktiver Nutzererlebnisse und effizienter Systeme.
-
-![Coding Animation](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGE1b29ldms0cjllYXYxbGFocDh1emU0d2tzeG4zcTBvMHFudWwxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cIn5fTcjnKhStIeAef/giphy.gif)
 
 ---
 
