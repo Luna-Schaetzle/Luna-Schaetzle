@@ -14,7 +14,6 @@ Hi, I'm **Luna Schaetzle** – a passionate developer and tech enthusiast from A
 I'm currently in my final year at **HTL Anichstraße Innsbruck**, studying **Industrial Engineering & Business Informatics**.  
 My thesis project, **SAIPiA**, explores **Artificial Intelligence** in industrial and educational environments.  
 
----
 
 ## 🛠️ What I Do
 
@@ -25,7 +24,6 @@ My thesis project, **SAIPiA**, explores **Artificial Intelligence** in industria
 - 💻 **Tech Stack**: Java, Python, SQL, C#, C, PHP, JavaScript  
 - 🎨 **Creative Problem Solver**: Designing interactive user experiences and efficient system architectures  
 
----
 
 ## 🚀 Tech Stack
 
@@ -35,6 +33,7 @@ My thesis project, **SAIPiA**, explores **Artificial Intelligence** in industria
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🌐 Web Development
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -58,14 +57,12 @@ My thesis project, **SAIPiA**, explores **Artificial Intelligence** in industria
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
 
 ## 🏗️ Current Projects
 - **SAIPiA**: A self-sufficient AI assistant running on **Raspberry Pi** & **LLMs**  
 - **Web Development**: Personal website & Vue.js projects  
 - **AI-Generated Content**: Experimenting with AI-generated music, images & stories  
 
----
 
 ## 🎯 Interests & Goals
 - 🛡️ **Interests**: Fantasy, Sci-Fi & medieval themes  
@@ -81,7 +78,7 @@ My thesis project, **SAIPiA**, explores **Artificial Intelligence** in industria
 
 ## 📜 Certifications
 - **Project Management Fundamentals (PMI)**  
-- **Matura (HTL Anichstraße, specializing in Industrial Engineering & Business Informatics)**  
+- **Matura (HTL Anichstraße, specializing in Industrial Engineering & Business Informatics)[comming soon]**  
 
 ---
 
