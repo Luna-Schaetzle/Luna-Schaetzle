@@ -27,6 +27,8 @@ My thesis project, **SAIPiA**, explores **Artificial Intelligence** in industria
 
 ## 🚀 Tech Stack
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luna-Schaetzle&layout=compact&theme=radical)
+
 ### 🖥️ Programming & Scripting
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -74,11 +76,15 @@ My thesis project, **SAIPiA**, explores **Artificial Intelligence** in industria
 - Developing robust **open-source solutions** for the community  
 - Pushing boundaries in **AI** and **web development**  
 
----
 
 ## 📜 Certifications
 - **Project Management Fundamentals (PMI)**  
 - **Matura (HTL Anichstraße, specializing in Industrial Engineering & Business Informatics)[comming soon]**  
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luna-Schaetzle&show_icons=true&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Luna-Schaetzle&theme=radical)
 
 ---
 
@@ -90,7 +96,5 @@ My thesis project, **SAIPiA**, explores **Artificial Intelligence** in industria
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luna-Schaetzle&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luna-Schaetzle&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Luna-Schaetzle&theme=radical)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Luna-Schaetzle&theme=radical)
 
