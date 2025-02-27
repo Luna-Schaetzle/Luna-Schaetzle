@@ -83,7 +83,6 @@ My thesis project, **SAIPiA**, explores **Artificial Intelligence** in industria
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luna-Schaetzle&show_icons=true&theme=radical)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Luna-Schaetzle&theme=radical)
 
 ---
@@ -93,8 +92,5 @@ My thesis project, **SAIPiA**, explores **Artificial Intelligence** in industria
 🐙 **GitHub:** [Luna-Schaetzle](https://github.com/Luna-Schaetzle)  
 🌍 **Website:** [Coming soon!]
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luna-Schaetzle&show_icons=true&theme=radical)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Luna-Schaetzle&theme=radical)
 
