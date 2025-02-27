@@ -10,9 +10,9 @@
 ---
 
 ## 🌟 About Me
-Hi, ich bin **Luna Schaetzle** – eine leidenschaftliche Entwicklerin und Tech-Enthusiastin aus Österreich.  
-Momentan bin ich im letzten Jahr meiner Ausbildung an der **HTL Anichstraße Innsbruck**, Fachrichtung **Wirtschaftsinformatik & Wirtschaftsingenieurwesen**.  
-Meine Diplomarbeit **SAIPiA** beschäftigt sich mit **Künstlicher Intelligenz** in der Industrie und im Bildungswesen.  
+Hi, I'm **Luna Schaetzle** – a passionate developer and tech enthusiast from Austria.  
+I'm currently in my final year at **HTL Anichstraße Innsbruck**, studying **Industrial Engineering & Business Informatics**.  
+My thesis project, **SAIPiA**, explores **Artificial Intelligence** in industrial and educational environments.  
 
 ---
 
@@ -20,10 +20,10 @@ Meine Diplomarbeit **SAIPiA** beschäftigt sich mit **Künstlicher Intelligenz**
 
 ![Coding Animation](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGE1b29ldms0cjllYXYxbGFocDh1emU0d2tzeG4zcTBvMHFudWwxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cIn5fTcjnKhStIeAef/giphy.gif)
 
-- 🌐 **Full-Stack Developer**: Spezialisierung auf **Vue.js**, **Flask**, **PostgREST** und **ASP.NET**  
-- 🤖 **AI & Automation**: Entwicklung intelligenter Systeme mit **Python**, **Raspberry Pi**, **Arduino**  
+- 🌐 **Full-Stack Developer**: Specializing in **Vue.js**, **Flask**, **PostgREST**, and **ASP.NET**  
+- 🤖 **AI & Automation**: Developing intelligent systems with **Python**, **Raspberry Pi**, and **Arduino**  
 - 💻 **Tech Stack**: Java, Python, SQL, C#, C, PHP, JavaScript  
-- 🎨 **Creative Problem Solver**: UX/UI-Design und effiziente Architekturen  
+- 🎨 **Creative Problem Solver**: Designing interactive user experiences and efficient system architectures  
 
 ---
 
@@ -61,27 +61,27 @@ Meine Diplomarbeit **SAIPiA** beschäftigt sich mit **Künstlicher Intelligenz**
 ---
 
 ## 🏗️ Current Projects
-- **SAIPiA**: Ein selbstständiger KI-Assistent mit **Raspberry Pi** & **LLMs**  
-- **Web Development**: Persönliche Website & Vue.js-Projekte  
-- **AI-Generated Content**: Experimente mit KI-generierter Musik, Bilder & Geschichten  
+- **SAIPiA**: A self-sufficient AI assistant running on **Raspberry Pi** & **LLMs**  
+- **Web Development**: Personal website & Vue.js projects  
+- **AI-Generated Content**: Experimenting with AI-generated music, images & stories  
 
 ---
 
 ## 🎯 Interests & Goals
-- 🛡️ **Interessen**: Fantasy, Sci-Fi & Mittelalter  
-- 🎲 **Hobbys**: DnD-Enthusiastin & leidenschaftliche Weltenerbauerin  
-- 📚 **Lernen & Forschen**: KI, Webentwicklung & Automatisierung  
+- 🛡️ **Interests**: Fantasy, Sci-Fi & medieval themes  
+- 🎲 **Hobbies**: DnD enthusiast & passionate world-builder  
+- 📚 **Continuous Learning**: AI, web development & automation  
 
-**Meine Ziele:**
-- Perfektionierung von **Mensch-KI-Interaktionsschnittstellen**  
-- Entwicklung robuster **Open-Source-Lösungen** für die Community  
-- Grenzen in **AI** und **Webentwicklung** verschieben  
+**My goals:**
+- Perfecting **human-AI interaction interfaces**  
+- Developing robust **open-source solutions** for the community  
+- Pushing boundaries in **AI** and **web development**  
 
 ---
 
-## 📜 Certificates
+## 📜 Certifications
 - **Project Management Fundamentals (PMI)**  
-- **Matura (HTL Anichstraße, Schwerpunkt Wirtschaftsingenieurwesen & Wirtschaftsinformatik)**  
+- **Matura (HTL Anichstraße, specializing in Industrial Engineering & Business Informatics)**  
 
 ---
 
