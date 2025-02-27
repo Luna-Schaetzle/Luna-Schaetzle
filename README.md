@@ -50,7 +50,7 @@ Hi, ich bin **Luna Schaetzle** – eine leidenschaftliche Entwicklerin und Tech-
 ## 📫 Let's Connect
 - **Email:** [luna.schaetzle.website@gmail.com](mailto:luna.schaetzle.website@gmail.com)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LunaSchaetzle&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luna-Schaetzle&show_icons=true&theme=radical)
 
 <!---
 - 👋 Hi, I’m @Luna-Schaetzle
