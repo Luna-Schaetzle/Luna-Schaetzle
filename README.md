@@ -87,4 +87,10 @@ My thesis project, **SAIPiA**, explores **Artificial Intelligence** in industria
 🐙 **GitHub:** [Luna-Schaetzle](https://github.com/Luna-Schaetzle)  
 🌍 **Website:** [Coming soon!]
 
+## 📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luna-Schaetzle&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luna-Schaetzle&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Luna-Schaetzle&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Luna-Schaetzle&theme=radical)
+
