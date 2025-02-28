@@ -1,6 +1,6 @@
 # Hi there, I'm Luna Schaetzle 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luna-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/luna-schaetzle) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luna-blue?style=flat-square&logo=linkedin)](linkedin.com/in/luna-schätzle-762a09303) 
 [![GitHub](https://img.shields.io/badge/GitHub-Luna--Schaetzle-181717?style=flat-square&logo=github)](https://github.com/Luna-Schaetzle) 
 [![Email](https://img.shields.io/badge/Email-luna.schaetzle@gmail.com-c14438?style=flat-square&logo=gmail)](mailto:luna.schaetzle@gmail.com) 
 [![Location](https://img.shields.io/badge/Location-Austria-red?style=flat-square&logo=googlemaps)](https://www.google.com/maps/place/Austria)
