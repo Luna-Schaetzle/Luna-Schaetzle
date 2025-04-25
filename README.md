@@ -12,7 +12,7 @@
 ## 🌟 About Me
 Hi, I'm **Luna Schaetzle** – a passionate developer and tech enthusiast from Austria.  
 I'm currently in my final year at **HTL Anichstraße Innsbruck**, studying **Industrial Engineering & Business Informatics**.  
-My thesis project, **SAIPiA**, explores **Artificial Intelligence** in industrial and educational environments.  
+My thesis project, **Artifical Inteligence in Education and Software Development**, explores **Artificial Intelligence** in industrial and educational environments.  
 
 
 ## 🛠️ What I Do
@@ -61,6 +61,8 @@ My thesis project, **SAIPiA**, explores **Artificial Intelligence** in industria
 
 
 ## 🏗️ Current Projects
+- **Music Generation with ABC music Datasets**
+- **Building my own OS**: A small light build OS to understand how Operating Systems work.
 - **SAIPiA**: A self-sufficient AI assistant running on **Raspberry Pi** & **LLMs**  
 - **Web Development**: Personal website & Vue.js projects  
 - **AI-Generated Content**: Experimenting with AI-generated music, images & stories  
@@ -72,13 +74,15 @@ My thesis project, **SAIPiA**, explores **Artificial Intelligence** in industria
 - 📚 **Continuous Learning**: AI, web development & automation  
 
 **My goals:**
-- Perfecting **human-AI interaction interfaces**  
+- Perfecting **human-AI interaction**  
 - Developing robust **open-source solutions** for the community  
 - Pushing boundaries in **AI** and **web development**  
 
 
 ## 📜 Certifications
-- **Project Management Fundamentals (PMI)**  
+- **Project Management Fundamentals (PMI)**
+- **Junior Company Certificate**
+- **ENI Certificate**
 - **Matura (HTL Anichstraße, specializing in Industrial Engineering & Business Informatics)[comming soon]**  
 
 ## 📊 GitHub Stats
