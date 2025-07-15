@@ -66,11 +66,11 @@ My thesis project, **Artifical Inteligence in Education and Software Development
 ╔══════════════════════╗
 ║ Current Projects     ║
 ╚══════════════════════╝
-• LumiPet – desktop pet with quirky AI “OC”s
-• Music Gen with ABC datasets
-• Building my own lightweight OS
-• Personal website & Vue.js fun
-• AI‑generated music & art experiments 
+- LumiPet – desktop pet with quirky AI “OC”s
+- Music Gen with ABC datasets
+- Building my own lightweight OS
+- Personal website & Vue.js fun
+- AI‑generated music & art experiments 
 
 ───────────────────────────────────────────────
 
