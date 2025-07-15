@@ -95,9 +95,9 @@ My thesis project, **Artifical Inteligence in Education and Software Development
 ───────────────────────────────────────────────
 
 # Let’s Connect! :)
-✉️ luna.schaetzle@gmail.com
-🐙 github.com/Luna-Schaetzle
-🌐 luna-schaetzle.xyz (coming soon!)
+<span style="color:blue">|M|/<span> luna.schaetzle@gmail.com <br>
+<span style="color:orange"><(\_/)></span> github.com/Luna-Schaetzle <br>
+<span style="color:purple">=^_^=</span> luna-schaetzle.xyz (coming soon!)
 
 ───────────────────────────────────────────────
 
