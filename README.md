@@ -1,5 +1,4 @@
-█░█ █   ▀█▀ █░█ █▀▀ █▀█ █▀▀   █  █▀▄▀█   █░░ █░█ █▄░█ ▄▀█   █▀ █▀▀ █░█ ▄▀█ █▀▀ ▀█▀ ▀█ █░░ █▀▀
-█▀█ █   ░█░ █▀█ ██▄ █▀▄ ██▄   █  █░▀░█   █▄▄ █▄█ █░▀█ █▀█   ▄█ █▄▄ █▀█ █▀█ ██▄ ░█░ █▄ █▄▄ ██▄
+# Hi, there I'm Luna Schaetzle
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Luna-blue?style=flat-square&logo=linkedin)](linkedin.com/in/luna-schätzle-762a09303) 
 [![GitHub](https://img.shields.io/badge/GitHub-Luna--Schaetzle-181717?style=flat-square&logo=github)](https://github.com/Luna-Schaetzle) 
