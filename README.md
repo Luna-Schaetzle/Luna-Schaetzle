@@ -1,4 +1,6 @@
-# Hi, there I'm Luna Schaetzle
+# Hello random github Traveller, 
+
+(This README is under Constructions)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Luna-blue?style=flat-square&logo=linkedin)](linkedin.com/in/luna-schätzle-762a09303) 
 [![GitHub](https://img.shields.io/badge/GitHub-Luna--Schaetzle-181717?style=flat-square&logo=github)](https://github.com/Luna-Schaetzle) 
@@ -10,20 +12,9 @@
 ───────────────────────────────────────────────
 
 ## About Me |_|>
-Hi, I'm **Luna Schaetzle** – a passionate developer and tech enthusiast from Austria.  
-I'm currently finished the final year at **HTL Anichstraße Innsbruck**, studying **Industrial Engineering & Business Informatics**.  
-My thesis project, **Artifical Inteligence in Education and Software Development**, explores **Artificial Intelligence** in industrial and educational environments.  
-
-
-## What I Do
+Hi, I'm **Luna Schaetzle** I life in the Innsbruck in the middle of the Alps. I'm currently studding Computer Science at the University of Innsbruck.
 
 ![Coding Animation](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGE1b29ldms0cjllYXYxbGFocDh1emU0d2tzeG4zcTBvMHFudWwxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cIn5fTcjnKhStIeAef/giphy.gif)
-
-- **Full-Stack Developer**: Specializing in **Vue.js**, **Flask**, **PostgREST**, and **ASP.NET**  
-- **AI & Automation**: Developing intelligent systems with **Python**, **Raspberry Pi**, and **Arduino**  
-- **Tech Stack**: Java, Python, SQL, C#, C, PHP, JavaScript  
-- **Creative Problem Solver**: Designing interactive user experiences and efficient system architectures  
-
 
 ───────────────────────────────────────────────
 
@@ -63,26 +54,20 @@ My thesis project, **Artifical Inteligence in Education and Software Development
 
 ───────────────────────────────────────────────
 
-╔═══════════╗<br>
-║ Current Projects ║<br>
-╚═══════════╝
-- LumiPet – desktop pet with quirky AI “OC”s
-- Music Gen with ABC datasets
-- Building my own lightweight OS
-- Personal website & Vue.js fun
-- AI‑generated music & art experiments 
-
+╔═════════════════════╗<br>
+║ Current IT Projects ║<br>
+╚═════════════════════╝
+- Personal website
+- ... (Will be added soon!)
+  
 ───────────────────────────────────────────────
 
 ### Interests & Goals ฅ^•ﻌ•^ฅ
 • Interests: Fantasy · Sci‑Fi · Medieval themes
-• Hobbies: DnD world‑building wizardry
-• Always learning: AI, web dev, automation
+• Hobbies: DnD, Reading, Playing Games
 
 ### Goals:
-› Explore human‑AI interaction
-› Craft open‑source community tools
-› Push the boundaries of AI & web
+› explore and craft Open Source Tools and trinkets
 
 
 ### Certifications
@@ -97,7 +82,7 @@ My thesis project, **Artifical Inteligence in Education and Software Development
 # Let’s Connect! :)
 <span style="color:blue">|M|/<span> luna.schaetzle@gmail.com <br>
 <span style="color:orange"><(\_/)></span> github.com/Luna-Schaetzle <br>
-<span style="color:purple">=^_^=</span> luna-schaetzle.xyz (coming soon!)
+<span style="color:purple">=^_^=</span> Website (coming soon!)
 
 ───────────────────────────────────────────────
 
