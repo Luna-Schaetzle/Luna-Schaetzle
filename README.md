@@ -54,17 +54,17 @@ Hi, I'm **Luna Schaetzle** I life in the Innsbruck in the middle of the Alps. I'
 
 ───────────────────────────────────────────────
 
-╔═════════════════════╗<br>
+╔══════════════════╗<br>
 ║ Current IT Projects ║<br>
-╚═════════════════════╝
+╚══════════════════╝
 - Personal website
 - ... (Will be added soon!)
   
 ───────────────────────────────────────────────
 
 ### Interests & Goals ฅ^•ﻌ•^ฅ
-• Interests: Fantasy · Sci‑Fi · Medieval themes
-• Hobbies: DnD, Reading, Playing Games
+Fantasy · Sci‑Fi · Medieval themes <br>
+Hobbies: DnD, Reading, Playing Games
 
 ### Goals:
 › explore and craft Open Source Tools and trinkets
